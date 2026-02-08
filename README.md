@@ -43,8 +43,8 @@
 | Pact                 | Lending, RWA         | Aptos Move  |1 Sep - 19 Sep (2025)|  private  | Adevar Labs|
 |  Deepbook V3                | CLOB, Margin Pool         | Sui Move  |6 Oct - 5 Nov (2025)|  private  | Three Sigma|
 |  Ethena                 | Stable Coin         | Sui Move  |10 Dec - 19 Dec (2025)|  private  | Guardian Audits|
-|  Undisclosed                 | Stable Coin, Staking         | Solidity  |30 Dec - 31 Dec (2025)|  private  | Three Sigma|
-|  Undisclosed                 | Staking, RWA     | Solidity  |09 Jan & 12 Jan (2026)|  private  | Three Sigma|
+|  Saturn                 | Stable Coin, Staking, RWA         | Solidity  |30 Dec - 31 Dec (2025)|  private  | Three Sigma|
+|  Saturn                 | Staking, RWA    | Solidity  |09 Jan & 12 Jan (2026)|  private  | Three Sigma|
 |  Cabal                 | Delta Neutral Vault strategy (Echelon)     | Move, Cosmos IBC  |17 Jan - 20 Jan (2026)|  private  | SB Security|
 
 
