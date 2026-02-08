@@ -22,7 +22,7 @@
 | [Chainlink PA](https://code4rena.com/audits/2024-12-chainlink-payment-abstraction) (T)| Chainlink Payment Abstraction  | Solidity    |1M, 3L           |  🥉   | code4rena |
 | [Usual](https://cantina.xyz/competitions/39565094-32b6-45d9-88ce-1ad163a92088/leaderboard) (T)|  susde-vault | Solidity | 1H, 1M | 🥇 | Cantina Invitational |
 | [Initia Move](https://code4rena.com/audits/2025-01-initia-move) | A network for interwoven rollups | Aptos Move | 3H(1 solo) | 🥇 | code4rena |
-| [Gamma](https://codehawks.cyfrin.io/c/2025-02-gamma) (T)| Perpetuals | Solidity | 1M, 2L | - | codehawks |
+| [Gamma](https://codehawks.cyfrin.io/c/2025-02-gamma) (T)| Perpetuals | Solidity | 1M, 2L | 26 | codehawks |
 | [BadgerDao](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) (T)| badger-ebtc-bsm | Solidity | 1H, 1M | 9 | cantina |
 | [Movement Labs](https://immunefi.com/audit-competition/movement-labs-attackathon/information/?utm_source=explore_results) | Move based blockchain |Aptos Move | 1 Low | - | Immunefi |
 | [ZetaChain](https://audits.sherlock.xyz/contests/857) | Cross Chain Bridge | Sui Move(scope only) | 1M | 17 | Sherlock |
