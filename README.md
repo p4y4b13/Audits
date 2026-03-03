@@ -45,7 +45,7 @@
 |  Ethena                 | Stable Coin         | Sui Move  |10 Dec - 19 Dec (2025)|  private  | Guardian Audits|
 |  Saturn                 | Stable Coin, Staking, RWA         | Solidity  |30 Dec - 31 Dec (2025)|  private  | Three Sigma|
 |  Saturn                 | Staking, RWA    | Solidity  |09 Jan & 12 Jan (2026)|  private  | Three Sigma|
-|  Cabal                 | Delta Neutral Vault strategy (Echelon)     | Move, Cosmos IBC  |17 Jan - 20 Jan (2026)|  private  | SB Security|
-|  Cabal                 | -     | Move  |24 Feb - 27 Feb (2026)|  private  | SB Security|
+|  Cabal                 | Delta Neutral Vault strategy (Echelon)     | Initia Move, Cosmos IBC  |17 Jan - 20 Jan (2026)|  private  | SB Security|
+|  Cabal                 | -     | Initia Move |24 Feb - 27 Feb (2026)|  private  | SB Security|
 
 
