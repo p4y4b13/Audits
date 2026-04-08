@@ -26,6 +26,8 @@
 | [BadgerDao](https://cantina.xyz/competitions/f57ffb47-0ded-4f04-bcec-ecd7d47fad58) (T)| badger-ebtc-bsm | Solidity | 1H, 1M | 9 | cantina |
 | [Movement Labs](https://immunefi.com/audit-competition/movement-labs-attackathon/information/?utm_source=explore_results) | Move based blockchain |Aptos Move | 1 Low | - | Immunefi |
 | [ZetaChain](https://audits.sherlock.xyz/contests/857) | Cross Chain Bridge | Sui Move(scope only) | 1M | 17 | Sherlock |
+| [Current Finance](https://audits.sherlock.xyz/contests/1256) | Lending | Sui Move | 1H,1M | - | Sherlock |
+
 
 
 
