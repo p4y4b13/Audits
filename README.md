@@ -27,6 +27,9 @@
 | [Movement Labs](https://immunefi.com/audit-competition/movement-labs-attackathon/information/?utm_source=explore_results) | Move based blockchain |Aptos Move | 1 Low | - | Immunefi |
 | [ZetaChain](https://audits.sherlock.xyz/contests/857) | Cross Chain Bridge | Sui Move(scope only) | 1M | 17 | Sherlock |
 | [Current Finance](https://audits.sherlock.xyz/contests/1256) | Lending | Sui Move | 1H,1M | - | Sherlock |
+| [Morpho Midnight]([https://audits.sherlock.xyz/contests/1256](https://cantina.xyz/competitions/4679e0fa-85f7-4ea5-8827-ee6c70bdee6b)) | Lending | Solidity | 1 Low/Info | - | Cantina |
+| [K2](https://code4rena.com/audits/2026-04-k2) | Lending | Stellar Rust | - | - | code4rena |
+
 
 
 
@@ -51,6 +54,8 @@
 |  Cabal                 | Strat Vault LST Wrapper     | Initia Move |24 Feb - 27 Feb (2026)|  private  | SB Security|
 |  YUZU                 | CLMM     | Move | 3 Mar - 18 Mar (2026)|  private  | Sherlock Collaborative|
 |  Keyring                 | Pre-Deposit Vault, IRM(Interest Rate Model)     | Solidity |19 Mar - 20 Mar (2026)|  private  | Three Sigma|
+|  InfiniFi                 | Bridge, Staking     | Solidity |13 Jul - 17 Jul (2026)|  private  | Three Sigma|
+
 
 
 
