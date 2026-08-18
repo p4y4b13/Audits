@@ -54,7 +54,7 @@
 |  Cabal                 | Strat Vault LST Wrapper     | Initia Move |24 Feb - 27 Feb (2026)|  private  | SB Security|
 |  YUZU                 | CLMM     | Move | 3 Mar - 18 Mar (2026)|  private  | Sherlock Collaborative|
 |  Keyring                 | Pre-Deposit Vault, IRM(Interest Rate Model)     | Solidity |19 Mar - 20 Mar (2026)|  private  | Three Sigma|
-|  InfiniFi                 | Bridge, Staking     | Solidity |13 Jul - 17 Jul (2026)|  private  | Three Sigma|
+|  Infini Finance                 | Bridge, Staking     | Solidity |13 Jul - 17 Jul (2026)|  private  | Three Sigma|
 |  Deepbook Predict                 | Prediction Markets     | Sui Move | Jul - Aug (2026)|  private  | Three Sigma|
 
 
